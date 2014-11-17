@@ -10,4 +10,5 @@ Dim i
 i=10
     For i=0 To Amount
     Console.run "ping " & Ip & " -t -l " & Packets
-    Next 
+    Next
+    ''Coded By Azura
